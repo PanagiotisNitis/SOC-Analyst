@@ -39,7 +39,7 @@ Examples include:
 - Wireshark packet captures
 - Brute force login detection (Hydra)
 - SQL injection detection with logs
-![Nmap Scan](/screenshots/Nmap_scan.png)
+- Nmap scan: ![Nmap Scan](/screenshots/Nmap_scan.png)
 
 ---
 
