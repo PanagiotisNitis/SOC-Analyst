@@ -1,0 +1,13 @@
+# Project 2: Ransomware Attack Response
+
+## Description:
+This project involves responding to a ransomware attack. We created a scenario and analyzed the response using analysis and recovery tools.
+
+## Steps:
+1. **Detecting the Attack**: We identified the ransomware through indicators from the SIEM logs.
+2. **Recovery**: We took actions to remove the malicious software and restore data from backups.
+3. **Security Measures**: We proposed strategies to prevent future attacks, such as enhancing endpoint security and user education.
+
+## Tools:
+- SIEM (e.g., Splunk)
+- Backup & Recovery Tools

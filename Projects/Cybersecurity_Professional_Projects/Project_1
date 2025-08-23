@@ -1,0 +1,13 @@
+# Project 1: Phishing Attack Analysis with Splunk
+
+## Description:
+In this project, the goal was to analyze a phishing attack using the Splunk tool. We examined the network and email logs to detect suspicious activities.
+
+## Steps:
+1. **Detecting Suspicious Activity**: We used Splunk to analyze the email server logs.
+2. **Data Analysis**: We examined the emails for suspicious URLs and attachments.
+3. **Response and Mitigation**: We documented the actions taken to handle the incident, including blocking the malicious address and informing users.
+
+## Tools:
+- Splunk
+- Phishing simulation tools
