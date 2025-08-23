@@ -12,7 +12,7 @@ Hello! I’m Panagiotis, an aspiring SOC Analyst with hands-on experience from:
 
 About Me
 
-- 🎓 Google Cybersecurity Professional Certificate  [Screenshot](screenshots/Google_Cybersecurity_Professional_Certificate.png)
+- 🎓 Google Cybersecurity Professional Certificate  [Coursera](screenshots/Google_Cybersecurity_Professional_Certificate.png)
 - 🧑‍💻 TryHackMe Cybersecurity 101 + SOC/Blue Team paths
 - 🔍 Interested in Threat Detection, SIEM, Log Analysis, and Incident Response
 - 🚀 Goal: Entry-level SOC Analyst / Security Operations role
