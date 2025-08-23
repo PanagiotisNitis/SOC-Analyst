@@ -3,7 +3,7 @@
 
 Hello! I’m Panagiotis, an aspiring SOC Analyst with hands-on experience from:
 ## 📚 Completed Courses & Labs
-- [x] Google Cybersecurity Certificate (![alt text](screenshots/Google_Cybersecurity_Professional_Certificate.png))
+- [x] Google Cybersecurity Certificate (Coursera)
 - [x] Cybersecurity 101 (TryHackMe)
 - [x] TryHackMe Labs: Hydra, Gobuster, SQLMap, Metasploit, Burp Suite, OWASP Top 10
 - [x] Blue Team Fundamentals
@@ -12,7 +12,7 @@ Hello! I’m Panagiotis, an aspiring SOC Analyst with hands-on experience from:
 
 About Me
 
-- 🎓 Google Cybersecurity Professional Certificate (Coursera)
+- 🎓 Google Cybersecurity Professional Certificate  (![alt text](screenshots/Google_Cybersecurity_Professional_Certificate.png))
 - 🧑‍💻 TryHackMe Cybersecurity 101 + SOC/Blue Team paths
 - 🔍 Interested in Threat Detection, SIEM, Log Analysis, and Incident Response
 - 🚀 Goal: Entry-level SOC Analyst / Security Operations role
@@ -32,13 +32,14 @@ About Me
 
 ## 📸 Screenshots & Labs
 
-You can find evidence of hands-on labs in the [screenshot](../Soc%20analyst/screenshots).
+You can find evidence of hands-on labs in the [screenshot](/screenshots)
+
 Examples include:
 - Splunk SIEM detections
 - Wireshark packet captures
 - Brute force login detection (Hydra)
 - SQL injection detection with logs
-![Nmap Scan](./screenshots/nmap_scan.png)
+![Nmap Scan](/screenshots/Nmap_scan.png)
 
 ---
 
