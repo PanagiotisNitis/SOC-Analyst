@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-# SOC-Analyst
-=======
->>>>>>> 27cfaaa (commit)
+
 # 🛡️ SOC Analyst Portfolio
 
 Hello! I’m Panagiotis, an aspiring SOC Analyst with hands-on experience from:
@@ -66,10 +61,5 @@ Here are all the badges I've collected on my cyber quest:
 ---
 
 ## 📬 Contact
-- LinkedIn: [[your profile](https://www.linkedin.com/in/panagiotis-nitis-454055329/)]
-<<<<<<< HEAD
+- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/panagiotis-nitis-454055329/)]
 - Email:Panos9065@gmail.com
-=======
-- Email:Panos9065@gmail.com
->>>>>>> 57ea716 (commit)
->>>>>>> 27cfaaa (commit)
