@@ -32,7 +32,7 @@ About Me
 
 ## 📸 Screenshots & Labs
 
-You can find evidence of hands-on labs in the [screenshot](/screenshots)
+You can find evidence of hands-on labs in the [Projects](/Projects)
 
 Examples include:
 - Splunk SIEM detections
