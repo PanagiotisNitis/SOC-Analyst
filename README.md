@@ -62,5 +62,5 @@ Here are all the badges I've collected on my cyber quest:
 ---
 
 ## 📬 Contact
-- LinkedIn: [[LinkedIn](https://www.linkedin.com/in/panagiotis-nitis-454055329/)]
+- [LinkedIn](https://www.linkedin.com/in/panagiotis-nitis-454055329/)]
 - Email:Panos9065@gmail.com
