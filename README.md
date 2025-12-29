@@ -7,13 +7,14 @@ Hello! I’m Panagiotis, an aspiring SOC Analyst with hands-on experience from:
 - [x] Cybersecurity 101 (TryHackMe)
 - [x] TryHackMe Labs: Hydra, Gobuster, SQLMap, Metasploit, Burp Suite, OWASP Top 10
 - [x] Blue Team Fundamentals
+- [x] SOC Level 1
 
 ---
 
 About Me
 
 - 🎓 Google Cybersecurity Professional Certificate  [Coursera](screenshots/Google_Cybersecurity_Professional_Certificate.png)
-- 🧑‍💻 TryHackMe Cybersecurity 101 + SOC/Blue Team paths
+- 🧑‍💻 TryHackMe Cybersecurity 101 + SOC/Blue Team paths + SOC Level 1
 - 🔍 Interested in Threat Detection, SIEM, Log Analysis, and Incident Response
 - 🚀 Goal: Entry-level SOC Analyst / Security Operations role
 
@@ -27,6 +28,7 @@ About Me
 - Incident Response: Analyzing alerts, creating incident reports
 - Threat Intelligence: Mapping adversary techniques with MITRE ATT&CK
 - Red vs Blue Mindset: Exposure to penetration testing + SOC defense
+- [NEW] SSH Brute Force Detection with ELK Stack - [View Project](./ELK-SSH-Detection/)
 
 ---
 

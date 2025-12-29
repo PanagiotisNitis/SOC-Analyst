@@ -8,16 +8,24 @@ In this project, I configured an **ELK Stack** (Elasticsearch, Logstash, Kibana)
 - **Attacker**: Kali Linux (IP: 192.168.2.31)
 - **Tools**: Filebeat (Log Collection), Elasticsearch (Backend), Kibana (Visualization)
 
+### ⚔️ The Attack (Red Team)
+To simulate a real-world brute force scenario, I used **Hydra** from my Kali Linux machine. 
+
+**Command used:**
+```bash
+hydra -l ubuntu -P /usr/share/wordlists/rockyou.txt -t 4 -V ssh://192.168.2.16
+![Dashboard](./images/brute_force_attack.png)
+
 ## 📊 Detection & Analysis
 ### 1. Attack Visualization
 Immediately after launching Hydra, the Kibana Dashboard showed a significant spike in failed SSH login attempts.
-![Kibana Dashboard](./images/brute force attempts.png)
+![Dashboard](./images/brute_force_attempts.png)
 
 ### 2. Attacker Identification
 Using **Kibana Discover**, I filtered the logs and identified the source IP of the attacker.
 - **Attacker IP**: `192.168.2.31`
 - **Target Account**: `ubuntu`
-![Kibana Discover](./images/brute force attack source ip.png)
+![Dashboard](./images/brute_force_attack_sourceip.png)
 
 ## 🔐 Mitigation (Next Steps)
 To secure the server, I implemented:
