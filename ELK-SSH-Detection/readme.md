@@ -14,7 +14,7 @@ To simulate a real-world brute force scenario, I used **Hydra** from my Kali Lin
 **Command used:**
 ```bash
 hydra -l ubuntu -P /usr/share/wordlists/rockyou.txt -t 4 -V ssh://192.168.2.16
-![Dashboard](./images/brute_force_attack.png)
+![Source IP](./images/brute_force_attack.png)
 
 ## 📊 Detection & Analysis
 ### 1. Attack Visualization
